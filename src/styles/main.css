@@ -3,8 +3,18 @@
     padding: 0px;
     border: 0px;
   }
+
+  .container{
+      width: 50%;
+      margin: auto;
+      padding: 10px;
+      text-align: center;
+  }
   
   .cuadro_0{
+    position:fixed;
+    display: block;
+    text-align: center;
     width: 600px;
     height: 600px;
     background: red;
