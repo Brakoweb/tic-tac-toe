@@ -4,6 +4,11 @@
     border: 0px;
   }
 
+  body{
+    background-image: url(../../assets/images/bgrepeat.png);
+    background-repeat: repeat;
+  }
+
   .container{
       width: 50%;
       margin: auto;
